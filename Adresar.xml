@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Adresar SYSTEM "Adresar.dtd">
+<Adresar>
+  <Osoba id="uid1">
+    <PunoIme>
+      <Ime>Pavle</Ime>
+      <SrednjeIme>Vojislav</SrednjeIme>
+      <Prezime>Ilić</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>23</Dan>
+      <Mesec>1</Mesec>
+      <Godina>1996</Godina>
+    </DatumRodjenja>
+    <Adresa status="stalna">
+      <Ulica>Časlava Veljića</Ulica>
+      <Broj>24D</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon status="mobilni">061/657-522</Telefon>
+    <Email status="sluzbeni">pavle.ilic@karanovicpartners.com</Email>
+    <Email status="privatni">pavle.ilic24d@gmail.com</Email>
+  </Osoba>
+  <Osoba id="uid2">
+    <PunoIme>
+      <Ime>Sergej</Ime>
+      <Prezime>Milinković</Prezime>
+      <Prezime>Savić</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>29</Dan>
+      <Mesec>02</Mesec>
+      <Godina>1995</Godina>
+    </DatumRodjenja>
+    <Adresa status="privremena">
+      <Ulica>Jurija Gagarina</Ulica>
+      <Broj>29G</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon status="mobilni">061/365-321</Telefon>
+    <Email status="sluzbeni">smslazzio@yahoo.com</Email>
+    <Email status="privatni">sergejsms@gmail.com</Email>
+  </Osoba>
+  <Osoba id="uid3">
+    <PunoIme>
+      <Ime>Momčilo</Ime>
+      <Prezime>Mihailo</Prezime>
+    </PunoIme>
+    <DatumRodjenja>
+      <Dan>05</Dan>
+      <Mesec>11</Mesec>
+      <Godina>1996</Godina>
+    </DatumRodjenja>
+    <Adresa status="stalna">
+      <Ulica>Ratka Resanovića</Ulica>
+      <Broj>31</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon status="fiksni">011/250-533</Telefon>
+    <Email status="sluzbeni">momcilomihailo@gmail.com</Email>
+    <Email status="privatni">mmihailo@gmail.com</Email>
+  </Osoba>
+  <Kompanija id="mid1">
+    <Naziv>Kvip Elektro</Naziv>
+    <Adresa status="stalna">
+      <Ulica>Časlava Veljića</Ulica>
+      <Broj>24D</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon status="mobilni">064/293-455</Telefon>
+    <Email status="sluzbeni">kvipelektro@gmail.com</Email>
+  </Kompanija>
+  <Kompanija id="mid2">
+    <Naziv>Draco d.o.o.</Naziv>
+    <Adresa>
+      <Ulica>Časlava Veljića</Ulica>
+      <Broj>26E</Broj>
+      <Grad>Beograd</Grad>
+      <Drzava>Srbija</Drzava>
+    </Adresa>
+    <Telefon status="mobilni">061/331-759</Telefon>
+    <Email status="sluzbeni">dracostore@hotmail.com</Email>
+    <Email status="sluzbeni">dracostore@yahoo.com</Email>
+  </Kompanija>
+  <Kompanija id="mid3">
+    <Naziv>Beopress</Naziv>
+    <Adresa status="stalna">
+      <Ulica>Djakona Avakuma</Ulica>
+      <Broj>14</Broj>
+      <Grad>Beograd</Grad>
+    </Adresa>
+    <Telefon status="mobilni">061/355-167</Telefon>
+    <Email status="sluzbeni">beopress@yahoo.com</Email>
+    <Email status="sluzbeni">stamparijabeopress@gmail.com</Email>
+  </Kompanija>
+</Adresar>
+
